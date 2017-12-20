@@ -1,0 +1,11 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/common.css",
+      "js/vue.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
